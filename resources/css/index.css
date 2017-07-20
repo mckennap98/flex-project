@@ -53,6 +53,9 @@ nav {
 	
 }
 .text1 {
+font-family: Georgia;
+  font-size: 17px;
+  color: black;
 
 border:1px solid purple;
 }
@@ -76,18 +79,40 @@ border:1px solid purple;
   }
   #tuna {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png");
-  color: white;
-  font-size: 30px;
+  font-family: Georgia;
   font-weight: bold;
-  text-align: center;
+  font-size: 30px;
+  color: white;
+  
   height: 250px;
    }
   #earth {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-2.png");
-  color: white;
-  font-size: 30px;
+  font-family: Georgia;
   font-weight: bold;
-  text-align: center;
+  font-size: 30px;
+  color: white;
+  
+   height: 250px;
+  }
+  
+  #camera {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-3.png");
+  font-family: Georgia;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+  
+   height: 250px;
+  }
+  
+  #cat {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-1.png");
+  font-family: Georgia;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+  
    height: 250px;
   }
 /*
