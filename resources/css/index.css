@@ -150,6 +150,50 @@ display: flex;
   h2{
   display:inline-block;
   }
+  
+  .projfooter {
+	display: flex;
+	/*margin: 4px;*/
+   background-color: MediumAquamarine;
+   font-family: Verdana;
+  font-size: 12px;
+  height: 200px;
+  justify-content: center;
+  /*border: 10px solid purple;*/
+}
+
+.Site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.Site-content {
+  flex: 1;
+}
+
+.footerclass {
+font-weight: bold;
+background-color: transparent;
+font-family: Verdana;
+  font-size: 12px;
+ padding: 50px;
+ margin: 60px;
+ text-decoration: underline;
+ height: 20px;
+}
+
+.footerstart {
+color: white;
+border-right: 1px solid white;
+text-decoration: underline;
+background-color: transparent;
+font-family: Verdana;
+  font-size: 12px;
+ padding: 50px;
+ margin: 60px;
+ height: 20px;
+}
 /*
 .col1 {
 margin: 90px 30px;
